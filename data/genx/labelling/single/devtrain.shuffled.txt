@@ -1,0 +1,2640 @@
+the brown arch
+033
+
+the yellow rectangle
+493
+
+the dark green arch
+313
+
+the red cylinder
+271
+
+the green cube
+195
+
+the red triangle
+423
+
+the green pear
+332
+
+the yellow block
+501
+
+the orange cube
+368
+
+the green object
+319
+
+the black one
+143
+
+the orange object
+051
+
+the yellow pineapple slice
+500
+
+the gray stone shaped piece
+137
+
+the gray toy
+033
+
+the dark green toy
+313
+
+the pear
+332
+
+the pie slice
+470
+
+the pink rectangle
+362
+
+the yellow toy the square block with round top the yellow object
+494
+
+the yellow toy
+500
+
+the brown object
+131
+
+the yellow toy
+493
+
+the red bridge shaped piece
+422
+
+the orange toy
+401
+
+the red cylinder
+259
+
+the red toy that is not the cylinder
+445
+
+the brown arched shaped toy
+033
+
+the blue object
+076
+
+the green u shaped toy
+313
+
+the yellow rectangle
+493
+
+the yellow domed block
+494
+
+the red arch
+045
+
+the curved purple wedge
+033
+
+the green wedge block
+319
+
+the yellow toy
+493
+
+the blue bridge-like object
+129
+
+the brown stone toy
+454
+
+the purple piece
+131
+
+the red one
+271
+
+the red toy
+430
+
+the purple triangle
+423
+
+the brown rectangle
+143
+
+the orange rectangle
+362
+
+the black or dark brown piece
+125
+
+the brown/black rectangle
+125
+
+the yellow shape
+500
+
+the brown object
+454
+
+the green triangle
+319
+
+the beige cube
+368
+
+the red toy
+429
+
+the square blue object
+076
+
+the light green pear shaped toy
+338
+
+the round yellow piece
+455
+
+the orange cube
+207
+
+the blue object
+092
+
+the purple triangle
+472
+
+the red round block
+271
+
+the purple object
+472
+
+the red apple
+445
+
+the red cylinder
+271
+
+the yellow ball
+455
+
+the green triangle
+319
+
+the square
+308
+
+the red toy that is not a cylinder
+445
+
+the black object
+033
+
+the yellow curved toy
+500
+
+the pie slice
+470
+
+the pink piece
+423
+
+the red rectangular prism
+430
+
+the yellow arch
+487
+
+the green cube
+308
+
+the orange block
+471
+
+the green triangle
+319
+
+the yellow rectangle
+493
+
+the green cube
+195
+
+the orange one
+368
+
+the purple cube
+201
+
+the red block
+271
+
+the light green item
+338
+
+only the dark green objects
+308
+
+the yellow toy
+501
+
+the red item
+271
+
+the square block with round top
+501
+
+the blue piece
+092
+
+the red rectangle
+430
+
+the green cube
+308
+
+the curved , yellow object
+500
+
+the red cylinder
+259
+
+the green cube
+195
+
+the orange triangle
+471
+
+the red arch
+045
+
+all blue objects
+092
+
+the red block
+389
+
+the round yellow object
+455
+
+the orange block
+368
+
+the brown object
+131
+
+the yellow object
+494
+
+the yellow piece
+500
+
+the blue toy
+092
+
+the light green block
+338
+
+the yellow piece
+501
+
+the green toy
+313
+
+the blue square
+076
+
+the red rod-shaped object
+259
+
+the orange arch
+051
+
+the gray one
+033
+
+the yellow toy
+487
+
+the brown rectangle
+125
+
+the lime green toy
+338
+
+the green cylinder
+265
+
+the red rectangle
+430
+
+the orange pyramid
+471
+
+the pear
+332
+
+the round yellow object
+455
+
+the light green toy
+332
+
+the brown object
+454
+
+the cube shaped object
+201
+
+the triangular toy
+472
+
+the orange object
+471
+
+the yellow toy
+494
+
+the red circular block
+259
+
+the brown toy
+137
+
+the green triangle
+473
+
+the brown object
+454
+
+the green square object
+195
+
+the yellow lemon object
+455
+
+the brown hexagon
+131
+
+the pink rectangle
+362
+
+the green cube
+308
+
+the blue cube with a sphere on top of it
+076
+
+the yellow arch item
+487
+
+the bright green toy
+338
+
+the brown ball
+137
+
+the orange square object
+207
+
+the red arch
+422
+
+the red piece
+045
+
+the red rectangular block
+389
+
+the green toy that is shaped like a cube
+195
+
+the pink arch
+422
+
+the yellow object
+494
+
+the orange toy
+362
+
+the red one
+429
+
+the brown dented object
+033
+
+the black one
+143
+
+the pie slice shaped plastic toy
+470
+
+the triangle
+423
+
+the orange , triangular object
+471
+
+the green cube
+195
+
+the blue cube
+082
+
+the gray potato
+454
+
+the purple arch on the far most left side of the table
+033
+
+the yellow one
+500
+
+the green square
+195
+
+the red block
+429
+
+the brown piece
+131
+
+the purple triangle
+472
+
+the green toy
+473
+
+the rectangle
+401
+
+the red object
+429
+
+the green cube
+308
+
+the brown object
+454
+
+the green cylinder
+265
+
+the green object
+473
+
+the brown toy
+137
+
+the little orange square
+207
+
+the red rectangular block
+400
+
+the black rectangle
+125
+
+the object that looks like a slice of apple pie
+470
+
+the blue item
+092
+
+the red one
+422
+
+the red toys
+430
+
+the bright green pear
+332
+
+the yellow one
+362
+
+the cube piece
+195
+
+the blue cube
+082
+
+the pink rectangle closest to the edge of the table
+362
+
+the black toy
+125
+
+only the black bridge object
+033
+
+the rectangular green block
+304
+
+the dark green object
+265
+
+the brown block
+143
+
+the green arch
+313
+
+the object that looks like a piece of pie
+470
+
+the magenta bridge
+422
+
+the magenta tube shape
+271
+
+the red rectangle
+429
+
+the red object
+429
+
+the yellow object
+494
+
+the black one
+201
+
+the red rectangle
+400
+
+the light green leaf
+332
+
+only the triangle
+423
+
+the blue arch
+129
+
+the brown rock
+137
+
+the yellow object
+501
+
+the orange toy
+471
+
+the yellow object
+501
+
+the yellow toy
+500
+
+the round brown ball
+137
+
+the lemon like item
+455
+
+the red arch
+045
+
+the purple arch shaped piece
+033
+
+the blue object
+076
+
+the red apple
+445
+
+the blue arch
+129
+
+the yellow object
+501
+
+the brown object
+131
+
+the red object
+430
+
+the yellow object
+487
+
+the blue bridge
+129
+
+the yellow toy
+494
+
+the pizza shaped one
+470
+
+the red rectangle
+429
+
+the blue cube
+082
+
+the red u shape
+045
+
+the peach rectangle
+401
+
+the yellow toy
+051
+
+the light green object
+332
+
+the blue arch
+129
+
+the brown item
+143
+
+the orange wedge
+471
+
+only the dark green toy
+313
+
+the slice of pizza
+470
+
+the yellow lemon
+455
+
+the light green object
+332
+
+the green triangle
+319
+
+the toy that looks like a piece of pie
+470
+
+the blue arch
+129
+
+the brown item
+125
+
+the yellow rectangle
+493
+
+the orange arch block
+051
+
+only the black rectangular object
+143
+
+the bridge shaped toy
+033
+
+the red toy that is shaped like a rectangle
+400
+
+the orange rectangle
+401
+
+the orange object
+401
+
+the yellow lemon
+455
+
+the yellow toy block
+494
+
+the yellow
+494
+
+the red object
+430
+
+the green pie slice toy
+319
+
+the green cube
+195
+
+the orange rectangle
+401
+
+the yellow square
+501
+
+the red object
+422
+
+the yellow , rectangular toy
+493
+
+the dark green object
+308
+
+the purple triangle
+423
+
+the yellow toy
+501
+
+the yellow toy
+493
+
+the orange cube
+207
+
+the red rectangle
+389
+
+the black block
+125
+
+the red rectangle
+430
+
+the red arch
+045
+
+the peach colored object
+362
+
+the triangle
+423
+
+the black bar
+125
+
+the red cylindrical toy
+259
+
+the red arch block
+045
+
+the red cuboid shaped piece
+389
+
+the dark green one
+265
+
+the red rectangle block
+400
+
+the red rectangle
+400
+
+the blue arch
+129
+
+the blue toy
+092
+
+the red rectangular object
+400
+
+the yellow one
+493
+
+the yellow curved shaped toy
+500
+
+the red rectangle
+389
+
+only the green toy with the arch cut out of it
+313
+
+the red apple
+445
+
+the brown rectangle
+125
+
+the orange block
+207
+
+the tan cube
+207
+
+the red dented object
+422
+
+the green arched shaped piece
+313
+
+the blue object
+082
+
+the orange square
+368
+
+the yellow u toy
+487
+
+the green wedge
+319
+
+the red cylinder
+259
+
+the red arch
+045
+
+the brown geometrical shaped toy
+131
+
+the green cube
+195
+
+the green pear
+338
+
+the blue arch
+129
+
+only the yellow object
+487
+
+the red apple
+445
+
+the orange cube
+368
+
+the brown rectangle
+143
+
+the orange cube
+207
+
+the orange rectangle
+362
+
+the green triangular toy
+319
+
+the red box toy
+389
+
+the item shaped like a blue cube
+082
+
+the green rectangle
+304
+
+the triangle object
+423
+
+the yellow block
+487
+
+the purple piece
+423
+
+the orange object
+368
+
+the brown cube
+201
+
+the orange toy
+362
+
+the green triangle
+319
+
+the orange arch
+051
+
+the orange cube
+368
+
+the brown toy
+131
+
+the green square
+308
+
+the green arch
+313
+
+the yellow block on the right
+493
+
+the blue object
+082
+
+the bright green object
+338
+
+the magenta rectangle piece
+389
+
+the black u shaped toy
+033
+
+the green cube
+195
+
+the green triangle
+473
+
+the blue object
+092
+
+the green cube
+195
+
+the red rectangular block
+389
+
+the green object
+319
+
+the blue rectangle
+092
+
+the dark green object
+313
+
+the orange toy
+401
+
+the purple triangle
+472
+
+the green block
+319
+
+the red triangle
+423
+
+the red triangle object
+472
+
+the red cylinder
+271
+
+the green bar
+304
+
+the red apple
+445
+
+the orange object
+362
+
+the green piece
+319
+
+the blue toy
+076
+
+the red object
+429
+
+the pink pie slice toy
+423
+
+the yellow piece
+494
+
+the red rectangle
+389
+
+the red rectangle
+389
+
+the brown object
+454
+
+the pink brick
+401
+
+the yellow square object
+501
+
+the red object
+429
+
+the red rectangular block
+400
+
+only the tan wedge object
+471
+
+the black item shaped like a cube
+201
+
+the lemon
+455
+
+the orange toy
+471
+
+the blue object
+076
+
+the yellow rectangle
+493
+
+the red rectangle
+430
+
+the brown triangle
+362
+
+the blue toy
+076
+
+the orange cube
+368
+
+the red object
+430
+
+the yellow object
+487
+
+the green wedge
+473
+
+the dark green object
+313
+
+the brown lump
+137
+
+the gray/brown one
+454
+
+the small green square block
+308
+
+the red cylinder piece
+259
+
+the wedge
+471
+
+the red arch
+422
+
+the green toy
+338
+
+the green pear-like item
+332
+
+the item that is black and rectangular
+143
+
+the black one
+125
+
+the black block
+143
+
+the yellow object
+500
+
+the red rectangle
+400
+
+the red apple
+445
+
+the light green object
+338
+
+the red piece
+271
+
+the green arch block
+313
+
+the orange square
+207
+
+the light green one
+338
+
+the blue arch
+129
+
+the lightest green object that looks like a jar it is located just below the blue arch
+332
+
+the brown square block
+201
+
+the orange rectangle object
+401
+
+the orange rectangle
+362
+
+the yellow arch
+487
+
+the red piece
+430
+
+the yellow block
+487
+
+the dark green one
+308
+
+the orange rectangle block
+401
+
+the rectangular shaped item that is red
+430
+
+the green cylinder
+265
+
+the arc only
+045
+
+the blue cube
+082
+
+the orange arch
+051
+
+the yellow item that looks like half a circle cut out of it
+487
+
+the blue object
+092
+
+the red toy
+429
+
+the green pear
+338
+
+the orange cube
+207
+
+the brown potato
+454
+
+only the brown toy
+201
+
+the yellow object
+494
+
+the red cylinder
+259
+
+the red rectangular object
+400
+
+the green rectangle
+304
+
+the black object
+125
+
+the green toy
+473
+
+the red piece
+430
+
+the red block
+422
+
+the yellow lemon
+455
+
+the six-sided object
+131
+
+the brown shape
+454
+
+the red object
+422
+
+the black rectangle
+125
+
+the blue square
+082
+
+the green rectangle
+304
+
+the yellow toy
+501
+
+the orange rectangle
+362
+
+the pear
+338
+
+the black rectangular piece
+125
+
+the orange cube
+207
+
+the a purple triangle
+472
+
+the dark red triangle like one
+472
+
+the tan colored triangular object
+471
+
+the brown arch
+033
+
+the blue arch
+129
+
+the potato like item
+454
+
+the orange toy
+051
+
+the red arch
+045
+
+the orange toy
+051
+
+the long red item
+271
+
+the yellow lemon
+455
+
+the green one
+473
+
+the red block
+400
+
+the orange arch
+051
+
+the orange triangle
+471
+
+the red cylinder object
+259
+
+the yellow one
+501
+
+the dark green arch
+313
+
+the blue toy
+129
+
+the yellow arch
+487
+
+the slice of pie
+470
+
+the cube
+082
+
+the pie piece
+470
+
+the black rectangle
+143
+
+the green cube
+195
+
+the red apple shaped piece
+445
+
+the blue dented object
+129
+
+the red rectangle
+389
+
+the red piece
+422
+
+the gray piece
+033
+
+the green cube
+201
+
+the brown ball
+137
+
+the gray stone looking piece
+454
+
+the orange square
+368
+
+the rectangular prism
+143
+
+the green arch
+313
+
+the yellow square
+494
+
+the hexagon
+131
+
+the blue toy
+092
+
+the red rectangle
+400
+
+the brown rectangle
+143
+
+the blue toy
+033
+
+the pie piece
+470
+
+the red u
+422
+
+the red cylinder
+259
+
+the small green cube
+195
+
+the peach triangle
+471
+
+the green cube
+195
+
+the red triangle
+423
+
+the green arch
+313
+
+the blue cube
+082
+
+the orange dented object
+051
+
+all the brown lumpy toys
+137
+
+the dark green one
+319
+
+the orange triangle
+471
+
+the red toy
+422
+
+the blue toy
+092
+
+the green triangular shaped toy
+473
+
+the red cylinder
+259
+
+the light purple object
+423
+
+the brown object
+131
+
+the brown rectangle
+143
+
+the orange arch
+051
+
+the dark blue one
+092
+
+the blue cube
+082
+
+the light green pear toy
+332
+
+the purple wedge
+472
+
+the green pear
+338
+
+the yellow item
+500
+
+the round yellow piece
+455
+
+the piece that is dark green , rectangular , and in the top right
+304
+
+the rectangular object
+389
+
+the purple cube
+201
+
+the red , c shaped toy
+422
+
+the dark green one
+304
+
+the triangle object
+470
+
+the blue rectangle
+092
+
+the red toy
+271
+
+the red block
+429
+
+the red rectangle
+389
+
+the cube
+368
+
+the purple pizza sliced shaped toy
+472
+
+the red rectangle shaped toy on the table
+400
+
+the red object
+422
+
+the red brick
+429
+
+the red rectangular toy
+389
+
+the yellow item
+494
+
+the black cube
+201
+
+the pie
+470
+
+the blue cube
+076
+
+the brown toy
+131
+
+the yellow object
+493
+
+the green pear
+332
+
+the blue toy
+092
+
+the brown toy
+131
+
+the red cylinder toy
+259
+
+the red arch
+045
+
+the purple triangle
+472
+
+the black object
+125
+
+the triangular object
+472
+
+the yellow piece
+493
+
+the yellow top
+494
+
+only the green acute triangle
+473
+
+the yellow top
+501
+
+the black rectangular piece
+143
+
+the red apple
+445
+
+the orange piece
+401
+
+the light green
+332
+
+only the dark green tube toy
+265
+
+the green block
+304
+
+the yellow piece
+501
+
+the green c shaped toy
+313
+
+the yellow object
+487
+
+the square object
+201
+
+the cube
+207
+
+the green cube
+195
+
+the item that is salmon colored
+401
+
+the blue block
+076
+
+the yellow object
+493
+
+the yellow round object
+455
+
+the red toy
+429
+
+the green triangle
+319
+
+the peach arch
+051
+
+the pizza
+470
+
+the orange rectangle
+401
+
+the red cylinder
+259
+
+the red toy
+429
+
+the rock
+454
+
+the blue u
+129
+
+the yellow object
+487
+
+the dark cube
+201
+
+the blue object
+076
+
+the green object
+308
+
+the green cylinder
+265
+
+the purple cuboid
+125
+
+the tan cuboid shaped piece
+362
+
+the yellow rectangle
+493
+
+the blue cube
+082
+
+the yellow toy
+494
+
+the green triangle
+319
+
+the red , triangular shaped toy
+472
+
+the blue toy
+082
+
+the orange cube
+368
+
+the black rectangle
+143
+
+the orange , rectangular toy
+401
+
+the green triangle
+473
+
+the orange cube piece
+368
+
+the orange rectangle
+362
+
+the orange triangle
+471
+
+the red rectangle
+389
+
+the blue cube
+082
+
+the blue cube
+082
+
+the blue one
+076
+
+the blue object
+076
+
+the green piece
+473
+
+the brown rectangle
+125
+
+the red apple
+445
+
+the green block
+265
+
+the cube shaped toy on the table
+207
+
+the blue rectangle
+092
+
+only the gray item
+454
+
+the brown arch
+033
+
+the purple toy
+423
+
+the triangular shaped object
+423
+
+the dark red
+423
+
+the green rectangle
+304
+
+the yellow object
+494
+
+the green object
+304
+
+the purple toy
+472
+
+the pie slice
+470
+
+the red arch
+422
+
+the green rectangular toy
+304
+
+the green triangle
+473
+
+the rectangle
+401
+
+the blue rectangle object
+129
+
+the green item shaped like a pear
+338
+
+the green bridge-like object
+313
+
+the black object
+143
+
+the red rectangular object
+400
+
+the red toy
+045
+
+the blue arch
+129
+
+the yellow rectangle
+493
+
+the yellow object
+487
+
+the yellow lemon
+455
+
+the green triangle
+473
+
+the red rectangular toy
+389
+
+the brown cube
+201
+
+the cube
+201
+
+the magenta wedge
+423
+
+the red toy
+271
+
+the light green object
+338
+
+the orange object
+368
+
+the brown object
+137
+
+the orange/peach colored one
+471
+
+the yellow one
+487
+
+the beige object
+362
+
+the yellow block
+494
+
+the green cube shaped toy
+195
+
+the red block
+400
+
+the black toy
+125
+
+the rectangle
+400
+
+the green triangle
+473
+
+the brown ball shape
+454
+
+the brown potato
+137
+
+the green wedge
+473
+
+the red apple
+445
+
+the blue block that has an arch shape cut out
+129
+
+the orange bridge
+051
+
+the red apple
+445
+
+the red block
+430
+
+the red toy
+045
+
+the dark green toy
+313
+
+the red rectangle
+430
+
+the brown lump
+454
+
+the red object
+422
+
+only the blue crescent-shaped object
+129
+
+the round brown object
+137
+
+the dark green object
+304
+
+the orange cube
+368
+
+the green , rectangular toy
+304
+
+the red object
+045
+
+the round red object
+445
+
+the blue square
+082
+
+the black toys
+143
+
+the orange object
+401
+
+the yellow lemon shaped object
+455
+
+the triangular object
+472
+
+the red rectangle object
+400
+
+the red block
+389
+
+the yellow toy
+494
+
+the blue toy
+092
+
+the red object
+429
+
+the orange piece
+471
+
+the dark rectangle
+125
+
+the red apple
+445
+
+the yellow toy
+501
+
+the yellow toy
+501
+
+the green pear
+332
+
+the brown shape
+137
+
+the green rectangle
+304
+
+the black block
+201
+
+the yellow shape
+501
+
+the red piece
+271
+
+the brown hexagon
+131
+
+the green cube
+308
+
+the arch shaped toy
+033
+
+the yellow object
+501
+
+the dark green cylinder shaped toy
+265
+
+the green triangle
+473
+
+the red one
+045
+
+the yellow item
+500
+
+the green pear
+338
+
+the orange cube
+368
+
+the yellow arch
+487
+
+the red cylinder
+259
+
+the orange cube
+368
+
+the red arch
+422
+
+the orange cube
+207
+
+the blue object
+092
+
+the red rectangle
+389
+
+the green cube
+308
+
+the brown square
+201
+
+the red toy
+430
+
+the black rectangle
+125
+
+the red rectangle
+400
+
+the pie piece
+470
+
+the yellow arch
+487
+
+the red cylinder
+259
+
+the orange/peach item
+051
+
+the black rectangle
+143
+
+the green square object
+195
+
+the item that is colored yellow
+494
+
+the red cuboid shaped piece
+429
+
+the brown object
+131
+
+the red arch
+045
+
+the brown item
+137
+
+the dark green item
+265
+
+the cube
+207
+
+the green cylinder
+265
+
+the red object
+271
+
+the green cuboid
+304
+
+the blue object
+076
+
+the brown toy
+137
+
+the green cube
+308
+
+the blue rectangle
+092
+
+the brown round toy
+454
+
+the orange rectangle
+362
+
+the blue arched block
+129
+
+the red cylinder
+259
+
+the arch shaped toy
+051
+
+the light green object
+332
+
+the pie toy
+470
+
+the orange cube shaped toy
+368
+
+the green fruit
+332
+
+the purple triangle object
+472
+
+the green cone
+338
+
+the dark red hexagon
+131
+
+the green cylinder
+265
+
+the yellow lemon
+455
+
+the green wedge block
+319
+
+the blue toy
+076
+
+the brown toy
+131
+
+the blue toy that is on the table
+076
+
+the yellow toy
+500
+
+the green cylinder
+265
+
+the green cylinder
+265
+
+the purple triangle
+423
+
+the red apple
+445
+
+the green square piece
+308
+
+the orange rectangle
+401
+
+the red arch
+045
+
+the blue cube
+082
+
+the yellow block
+493
+
+the green arch
+313
+
+the red toy
+271
+
+the yellow toy
+501
+
+the pineapple slice
+500
+
+the blue object
+082
+
+any thing red
+429
+
+the yellow arch
+487
+
+the brown object
+131
+
+the red rectangle
+389
+
+the yellow object
+500
+
+the red object
+430
+
+the triangular shaped piece
+470
+
+the purple cuboid shaped piece
+143
+
+the green cube
+308
+
+the green triangle
+319
+
+the red rectangle
+430
+
+the red rectangle
+400
+
+the red apple
+445
+
+the green cylinder
+265
+
+the tan triangle shaped piece
+471
+
+the object shaped like a bridge
+033
+
+the yellow lemon-looking object
+455
+
+the dark red one
+259
+
+the blue one
+082
+
+the red rectangle
+429
+
+the triangular shaped toy
+472
+
+the gray toy
+137
+
+the red cylinder
+271
+
+the green triangle
+473
+
+the red cylinder toy
+259
+
+the red one
+430
+
+the red bar
+389
+
+the blue cube
+082
+
+the green block
+473
+
+the dark green rectangular object
+304
+
+the yellow toy
+500
+
+the pie slice
+470
+
+the yellow object
+501
+
+the green rectangle
+304
+
+the yellow toy
+493
+
+the orange arch
+051
+
+the yellow object
+494
+
+the gray spherical object
+454
+
+the orange arch
+051
+
+the dark green object
+265
+
+the orange triangle
+471
+
+the magenta piece
+430
+
+the dark green one
+313
+
+the orange object
+051
+
+the green cube
+308
+
+the blue one nearest the green one
+129
+
+the green cube
+308
+
+the red arch
+422
+
+the green wedge
+473
+
+the red cylinder
+271
+
+only the red that is not a cylinder
+445
+
+the gray rock
+454
+
+the lemon
+455
+
+the green pear
+338
+
+only the yellow objects
+500
+
+the green rectangle shaped toy
+304
+
+the orange cube
+207
+
+the red toy
+271
+
+the potato shaped object
+454
+
+the yellow bridge
+487
+
+the yellow bar
+493
+
+the purple triangle
+472
+
+the blue toy
+076
+
+the orange object
+401
+
+the green triangle
+319
+
+the yellow toy
+500
+
+the brown cube
+201
+
+the orange rectangle
+362
+
+the purple hexagon
+131
+
+the largest red piece
+445
+
+the red rectangle
+429
+
+the green wedge
+473
+
+the orange square
+207
+
+the bright green object that looks like a little bottle
+332
+
+the red toy
+045
+
+the green cylinder
+265
+
+the dark rectangular block
+143
+
+the light green item
+332
+
+the light green piece
+332
+
+the orange cube
+368
+
+the blue object
+076
+
+the cylinder
+271
+
+the blue arch
+129
+
+the light green item
+332
+
+the green cube
+195
+
+the purple cube
+201
+
+the green cylinder
+265
+
+the arch
+051
+
+the orange cube
+368
+
+the blue toy
+076
+
+the red cuboid
+400
+
+the orange rectangle
+401
+
+the peach colored cube
+207
+
+the brown toys
+137
+
+the yellow ball
+455
+
+the red object
+045
+
+the red apple
+445
+
+the black arch
+033
+
+the brown one
+131
+
+the yellow object
+500
+
+the rounded brown toy
+137
+
+the gray rock
+137
+
+the orange cube
+207
+
+the yellow piece
+500
+
+the purple triangle
+423
+
+the green cylinder
+265
+
+the blue toy
+092
+
+the green cylinder
+265
+
+the black object
+125
+
+the green wedge
+319
+
+the orange rectangle
+401
+
+the small green object , the square object , the smaller square green object
+195
+
+the blue toy
+076
+
+the pear
+338
+
+the red triangle
+472
+
+the cube shaped piece
+201
+
+the red object
+271
+
+the black arch
+033
+
+the purple object
+423
+
+the purple triangle shaped piece
+472
+
+the yellow lemon
+455
+
+the orange piece
+207
+
+the green rectangle object
+304
+
+the red rectangle
+045
+
+the green rectangle
+304
+
+the cylinder
+259
+
+the pear
+338
+
+the pizza slice
+470
+
+the cube
+201
+
+the green cube
+308
+
+the tan rectangular object
+362
+
+the orange wedge
+471
+
+the red block shaped like half a circle has been cut out of it , on the top right of the table
+422
+
+the blue rectangle object
+092
+
+the red object
+429
+
+the red brick
+400
+
+the brown/gray odd shaped one
+137
+
+only the red sphere-shaped item
+259
+
+the orange toy
+362
+
+the orange cube
+207
+
+only the green cube
+308
+
+the arch
+051
+
+only the yellow rectangular object
+493
+

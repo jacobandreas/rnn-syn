@@ -1,0 +1,396 @@
+the yellow toy shaped like a bridge
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (equal:<e*,t> (A:<<e,t>,e> (lambda $1:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $1) (sg:<e,t> $1)))) $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow toy that looks like a bridge
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (equal:<e*,t> (A:<<e,t>,e> (lambda $1:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $1) (sg:<e,t> $1)))) $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow arch piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (shape:<shape,<e,t>> arch:shape $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow dented object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (shape:<shape,<e,t>> arch:shape $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+yellow one that is not a cylinder
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (not:<t,t> (equal:<e*,t> $0 (A:<<e,t>,e> (lambda $1:e (and:<t*,t> (shape:<shape,<e,t>> cylinder:shape $1) (sg:<e,t> $1)))))) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0) (misc:<misc,<e,t>> misc:misc $0))))
+057
+
+the yellow half circle half square toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0) (misc:<misc,<e,t>> misc:misc $0))))
+057
+
+yellow arch shape
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0) (misc:<misc,<e,t>> misc:misc $0))))
+057
+
+the rectangular yellow object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0) (misc:<misc,<e,t>> misc:misc $0))))
+057
+
+the yellow arch
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow arch
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow arch
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow arch
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow arch
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow arch
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow block with the half circle cut out
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow bridge
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow curved wedge
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the yellow toy that has a crescent shape
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0) (misc:<misc,<e,t>> misc:misc $0))))
+057
+
+yellow arch
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> arch:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> yellow:color $0))))
+057
+
+the long , blue block
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0) (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0))))
+081
+
+the blue block
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue one
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the rectangle object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (shape:<shape,<e,t>> rect:shape $0))))
+081
+
+the blue rectangular solid
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (sg:<e,t> $0) (shape:<shape,<e,t>> rect:shape $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue bar
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue rectangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue rectangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue rectangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue rectangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue rectangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue rectangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue rectangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> rect:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+081
+
+the blue block
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue item
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue one
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+blue triangle piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+blue pie shaped toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue triangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue triangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue triangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue triangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue triangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue triangle
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue wedge
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the blue wedge
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> triangle:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> blue:color $0))))
+088
+
+the red object that is cube-shaped
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (shape:<shape,<e,t>> cube:shape $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red square object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (shape:<shape,<e,t>> cube:shape $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red square like item
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (shape:<shape,<e,t>> cube:shape $0) (color:<color,<e,t>> red:color $0))))
+189
+
+only the red square
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red cube
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red square
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the red square
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (shape:<shape,<e,t>> cube:shape $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+189
+
+the bright red toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (sg:<e,t> $0) (color:<color,<e,t>> red:color $0) (misc:<misc,<e,t>> misc:misc $0))))
+416
+
+the dark pink object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (sg:<e,t> $0) (color:<color,<e,t>> red:color $0) (misc:<misc,<e,t>> misc:misc $0))))
+416
+
+the square red item
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0) (type:<type,<e,t>> lego:type $0))))
+416
+
+the item that is red
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red item
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red item
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red object
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red objects
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red one
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red piece
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red shape
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red toy
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (misc:<misc,<e,t>> misc:misc $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
+the red square
+(The:<<e,t>,e> (lambda $0:e (and:<t*,t> (type:<type,<e,t>> lego:type $0) (sg:<e,t> $0) (color:<color,<e,t>> red:color $0))))
+416
+
