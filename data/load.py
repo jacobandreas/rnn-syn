@@ -6,7 +6,7 @@ import sexpdata
 Label = namedtuple("Label", ["nl", "lf"])
 Entity = namedtuple("Entity", ["props"])
 Scene = namedtuple("Scene", ["targets", "distractors"])
-Dataset = namedtuple("Dataset", ["scenes", "labels", "attrs"])
+Dataset = namedtuple("Dataset", ["scenes", "labels", "attrs", "train_ids", "test_ids"])
 
 def simplify(lf):
     if isinstance(lf, list):
@@ -67,19 +67,33 @@ def simplify(lf):
 def load_genx():
     labels = defaultdict(list)
     counter = 0
-    with open("data/genx/labelling/all/LABELED_TRAINING.txt") as label_f:
-        lines = label_f.readlines()
-        for i in range(0, len(lines), 4):
-            sent, lf_str, ex_id, _ = lines[i:i+4]
-            sent = sent.strip().split()
-            ex_id = int(ex_id)
-            lf = sexpdata.loads(lf_str)
-            lf = simplify(lf)
-            if lf is None:
-                print "warning: unable to parse", lf_str
-                continue
-            labels[ex_id].append(Label(sent, lf))
-            counter += 1
+    train_ids = set()
+    test_ids = set()
+    for name, path in [
+            ("train", "data/genx/labelling/all/LABELED_TRAINING.txt"),
+            ("test", "data/genx/labelling/all/heldout.labeled.NOBAD.txt")]:
+        with open(path) as label_f:
+            lines = label_f.readlines()
+            for i in range(0, len(lines), 4):
+                sent, lf_str, ex_id, _ = lines[i:i+4]
+                sent = sent.strip().split()
+                ex_id = int(ex_id)
+                lf = sexpdata.loads(lf_str)
+                lf = simplify(lf)
+                if lf is None:
+                    print "warning: unable to parse", lf_str
+                    continue
+                labels[ex_id].append(Label(sent, lf))
+                counter += 1
+
+                if name == "train":
+                    train_ids.add(ex_id)
+                else:
+                    test_ids.add(ex_id)
+
+    assert len(train_ids & test_ids) == 0
+    train_ids = sorted(train_ids)
+    test_ids = sorted(test_ids)
 
     all_attrs = {}
     entities = {}
@@ -103,4 +117,4 @@ def load_genx():
             distractors = [entities[i] for i in distractor_ids]
             scenes[ex_id] = Scene(targets, distractors)
 
-    return Dataset(scenes, dict(labels), all_attrs)
+    return Dataset(scenes, dict(labels), all_attrs, train_ids, test_ids)

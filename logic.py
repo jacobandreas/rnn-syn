@@ -1,13 +1,24 @@
 from data.load import Entity
 import numpy as np
 
-def flatten(lol):
-    if not isinstance(lol, tuple):
-        return lol
-    out = []
-    for l in lol:
-        out.append(_flatten(l))
-    return out
+#def flatten(lol):
+#    if not isinstance(lol, tuple):
+#        return lol
+#    out = []
+#    for l in lol:
+#        out.append(flatten(l))
+#    return out
+
+def tokens(lol):
+    if isinstance(lol, str):
+        return [lol]
+    elif isinstance(lol, list):
+        out = []
+        for l in lol:
+            out += tokens(l)
+        return out
+    else:
+        assert False
 
 def enumerate_lfs(max_depth, dataset):
     if max_depth == 0:
@@ -23,6 +34,8 @@ def enumerate_lfs(max_depth, dataset):
                     yield (op, out1, out2)
 
 def eval_lf(thing, lf, dataset):
+    if not np.any(thing):
+        return False
     assert isinstance(lf, str) or isinstance(lf, list) or isinstance(lf, tuple)
     if isinstance(lf, str) and isinstance(thing, Entity):
         return lf in thing.props
@@ -49,3 +62,8 @@ def explain_env(env, label, lfs, dataset):
         if ok:
             valid.append(lf)
     return min(valid, key=lambda x: 1 if isinstance(x, int) else len(_flatten(x)))
+
+def pp(lf):
+    if isinstance(lf, str):
+        return lf
+    return "(" + " ".join([pp(l) for l in lf]) + ")"
